@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Black Widow",
+        "genre": "action"
+    },
+    {
+        "id": 2,
+        "title": "Resident Evil: Welcome to Raccoon City",
+        "genre": "horor"
+    },
+    {
+        "id": 3,
+        "title": "Rurouni Kenshin: The Final",
+        "genre": "action"
+    },
+    {
+        "id": 4,
+        "title": "Venom : Let There Be Carnage",
+        "genre": "action"
+    },
+    {
+        "id": 5,
+        "title": "Malignant",
+        "genre": "drama"
+    },
+    {
+        "id": 6,
+        "title": "Don't Look Up",
+        "genre": "comedy"
+    },
+    {
+        "id": 7,
+        "title": "Asih",
+        "genre": "horor"
+    },
+    {
+        "id": 8,
+        "title": "Trolls World Tour",
+        "genre": "comedy"
+    },
+    {
+        "id": 9,
+        "title": "Filosofi Kopi 2: Ben & Jody",
+        "genre": "drama"
+    },
+    {
+        "id": 10,
+        "title": "The Unholy",
+        "genre": "horor'"
+    }
+]
